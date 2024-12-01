@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Leaderboard</h1>
+      <h1>Puppies Leaderboard</h1>
       <SearchBar query={query} onQueryChange={setQuery} />
       <Leaderboard data={filteredData} />
     </div>
