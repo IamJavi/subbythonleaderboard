@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/subbythonleaderboard/static/css/main.7fe3de5c.chunk.css",
+    "main.css": "/subbythonleaderboard/static/css/main.7420dffb.chunk.css",
     "main.js": "/subbythonleaderboard/static/js/main.fda4b0c3.chunk.js",
     "main.js.map": "/subbythonleaderboard/static/js/main.fda4b0c3.chunk.js.map",
     "runtime-main.js": "/subbythonleaderboard/static/js/runtime-main.bba3314b.js",
@@ -10,16 +10,16 @@
     "static/js/3.42b890a0.chunk.js": "/subbythonleaderboard/static/js/3.42b890a0.chunk.js",
     "static/js/3.42b890a0.chunk.js.map": "/subbythonleaderboard/static/js/3.42b890a0.chunk.js.map",
     "index.html": "/subbythonleaderboard/index.html",
-    "precache-manifest.2c7cb1bd0caca615d7ac8c90b041fc1d.js": "/subbythonleaderboard/precache-manifest.2c7cb1bd0caca615d7ac8c90b041fc1d.js",
+    "precache-manifest.ff26737a371ec50ee1cd2daff185f915.js": "/subbythonleaderboard/precache-manifest.ff26737a371ec50ee1cd2daff185f915.js",
     "service-worker.js": "/subbythonleaderboard/service-worker.js",
-    "static/css/main.7fe3de5c.chunk.css.map": "/subbythonleaderboard/static/css/main.7fe3de5c.chunk.css.map",
+    "static/css/main.7420dffb.chunk.css.map": "/subbythonleaderboard/static/css/main.7420dffb.chunk.css.map",
     "static/js/2.0fdb7f52.chunk.js.LICENSE.txt": "/subbythonleaderboard/static/js/2.0fdb7f52.chunk.js.LICENSE.txt",
     "static/media/App.css": "/subbythonleaderboard/static/media/woof.f54aaf4f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bba3314b.js",
     "static/js/2.0fdb7f52.chunk.js",
-    "static/css/main.7fe3de5c.chunk.css",
+    "static/css/main.7420dffb.chunk.css",
     "static/js/main.fda4b0c3.chunk.js"
   ]
 }

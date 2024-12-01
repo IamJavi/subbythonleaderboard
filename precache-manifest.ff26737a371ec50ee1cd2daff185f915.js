@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7096554af66799e38fa45072e4520d2a",
+    "revision": "b1ee4f6e6c5002d3ddcb9d97fcd2343d",
     "url": "/subbythonleaderboard/index.html"
   },
   {
-    "revision": "341cb40226484970b7db",
-    "url": "/subbythonleaderboard/static/css/main.7fe3de5c.chunk.css"
+    "revision": "2cad174cf303a564d393",
+    "url": "/subbythonleaderboard/static/css/main.7420dffb.chunk.css"
   },
   {
     "revision": "6aeeb0ffe1dc776cf1fb",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/subbythonleaderboard/static/js/3.42b890a0.chunk.js"
   },
   {
-    "revision": "341cb40226484970b7db",
+    "revision": "2cad174cf303a564d393",
     "url": "/subbythonleaderboard/static/js/main.fda4b0c3.chunk.js"
   },
   {
